@@ -1,0 +1,8 @@
+{
+  "name": "keyword-combiner",
+  "version": "0.1.0",
+  "description": "Easy keyword combiner for SEO.",
+  "main": "index.js",
+  "author": "Vinícius Borriello",
+  "license": "ISC"
+}
